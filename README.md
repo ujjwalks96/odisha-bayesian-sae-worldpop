@@ -9,7 +9,7 @@
 
 ## Interactive Report
 
-**[View the full interactive Rendered Web report](https://ujjwalks96.github.io/odisha-bayesian-sae-worldpop/worldpop_odisha_sae_report.html)** -- open directly in any browser. All maps, figures, tables and model diagnostics are fully embedded. No R installation required.
+**[View the full interactive Rendered Web Report](https://ujjwalks96.github.io/odisha-bayesian-sae-worldpop/worldpop_odisha_sae_report.html)** --> open directly in any browser. All maps, figures, tables and model diagnostics are fully embedded. No R installation required.
 
 Alternatively, render from source:
 
