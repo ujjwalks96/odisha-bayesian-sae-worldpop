@@ -1,0 +1,4 @@
+Hyperparameter,mean,sd,0.025quant,0.5quant,0.975quant,mode
+size for the nbinomial observations (1/overdispersion),173.6972,71.8038,67.6264,162.1507,345.0172,140.3204
+Precision for sp_idx,250.2943,155.8795,80.7697,210.3242,663.1772,153.0302
+Phi for sp_idx,0.3565,0.1372,0.1228,0.3461,0.6454,0.321

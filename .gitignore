@@ -1,0 +1,33 @@
+# Large outputs
+outputs/figures/*.pdf
+outputs/maps/*.pdf
+**/*.RData
+*.rda
+
+# HTML report (heavy, regenerate from .Rmd)
+*.html
+
+# Geospatial extras
+*.shp
+*.dbf
+*.shx
+*.prj
+*.sbn
+*.sbx
+data/raw/*.gpkg
+data/**/*.tif
+*.nc
+*.h5
+*.hdf5
+
+# R temp/cache
+*_cache/
+*_files/
+.cache/
+
+# INLA specific
+inla.models/
+
+# Logs
+*.log
+Rplots.pdf

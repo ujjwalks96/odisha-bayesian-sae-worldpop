@@ -1,0 +1,2 @@
+Statistic,Estimate,Expected,Variance,p_value,Interpretation
+Moran's I,-0.0135,-0.0345,0.010476,0.4188,No significant spatial autocorrelation
