@@ -49,7 +49,7 @@ rmarkdown::render("report.Rmd")
 
 ## Rationale
 
-Accurate district-level population estimates are foundational to public health planning, disaster risk management, resource allocation, and demographic surveillance. In India, inter-censal periods can span a decade, leaving planners reliant on outdated Census counts. The 2021 Census of India was postponed indefinitely due to COVID-19, widening this gap further.
+Reliable sub-national population data are a prerequisite for evidence-based governance. District-level estimates underpin health facility planning, disaster preparedness, electoral delimitation, resource allocation formulae, and demographic surveillance systems. Yet in many low- and middle-income countries, including India, population data remain anchored to decennial census cycles. Inter-censal periods of ten years or more leave planners dependent on projections that accumulate error as demographic transitions, migration flows, and urbanisation reshape settlement patterns. The postponement of India's 2021 Census due to COVID-19 has extended this gap indefinitely, making the problem structurally acute rather than temporarily inconvenient. Satellite-derived population models offer a principled alternative. 
 
 **WorldPop** gridded population datasets offer a science-based alternative: high-resolution raster surfaces disaggregated from census data using machine learning and satellite covariates. However, raw WorldPop rasters carry spatial heterogeneity and no formal uncertainty estimates at the administrative unit level. District-level policy decisions require not just point estimates, but credible intervals that communicate how much confidence planners can place in each figure.
 
