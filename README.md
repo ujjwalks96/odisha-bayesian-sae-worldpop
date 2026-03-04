@@ -1,4 +1,4 @@
-# District-Level Population Estimation for the Districts of Odisha, India using Bayesian Small Area (SAE) Estimation Methods
+# District-Level Population Estimation for the state of Odisha, India using Bayesian Small Area (SAE) Estimation Methods
 
 > **WorldPop REST API; Sentinel-2 Covariates; VIIRS Nighttime Lights; INLA BYM2 Spatial Model**
 
@@ -9,7 +9,7 @@
 
 ## Interactive Report
 
-**[View the full interactive HTML report](report.html)** -- open directly in any browser. All maps, figures, tables and model diagnostics are fully embedded. No R installation required.
+**[View the full interactive Rendered Web Report](https://ujjwalks96.github.io/odisha-bayesian-sae-worldpop/worldpop_odisha_sae_report.html)** --> open directly in any browser. All maps, figures, tables and model diagnostics are fully embedded. No R installation required.
 
 Alternatively, render from source:
 
@@ -80,6 +80,7 @@ worldpop-odisha-sae/
 +-- report.Rmd                  Full reproducible R Markdown report
 +-- report.html                 Rendered interactive HTML report
 +-- run_all.R                   Master pipeline (runs all 5 steps)
++-- worldpop_odisha_sae_report.html     Web interactive Report (HTML)
 +-- README.md
 ```
 
