@@ -1,9 +1,9 @@
-# District-Level Population Estimation for the Districts of Odisha, India using Bayesian Small Area Estimation Methods
+# District-Level Population Estimation for the Districts of Odisha, India using Bayesian Small Area (SAE) Estimation Methods
 
 > **WorldPop REST API; Sentinel-2 Covariates; VIIRS Nighttime Lights; INLA BYM2 Spatial Model**
 
-**Author:** Ujjwal Kumar Swain | Geospatial AI Data and Policy Analyst, UNFPA India Odisha State Office
-**M.Sc.** Geoinformation Science and Earth Observation, University of Twente / IIRS-ISRO
+**Author:** Ujjwal Kumar Swain | Geospatial AI Data and Policy Analyst, UNFPA India, Odisha State Office;
+**M.Sc.** Geoinformation Science and Earth Observation (Spec.: Geoinformatics), University of Twente / IIRS-ISRO
 
 ---
 
@@ -359,19 +359,34 @@ Total runtime after initial download cache: approximately 1 minute.
 
 ## References
 
-1. Stevens, F.R., et al. (2015). Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data. *PLOS ONE*, 10(2). DOI: 10.1371/journal.pone.0107042
+1. Stevens, F.R., Gaughan, A.E., Linard, C., & Tatem, A.J. (2015).
+   Disaggregating Census Data for Population Mapping Using Random Forests
+   with Remotely-Sensed and Ancillary Data. PLOS ONE, 10(2), e0107042.
+   https://doi.org/10.1371/journal.pone.0107042
 
-2. Riebler, A., et al. (2016). An intuitive Bayesian spatial model for disease mapping that accounts for scaling. *Statistical Methods in Medical Research*, 25(4), 1145-1165.
+2. Riebler, A., Sorbye, S.H., Simpson, D., & Rue, H. (2016).
+   An intuitive Bayesian spatial model for disease mapping that accounts
+   for scaling. Statistical Methods in Medical Research, 25(4), 1145-1165.
+   https://doi.org/10.1177/0962280216660421
 
-3. Simpson, D., et al. (2017). Penalising Model Component Complexity: A Principled, Practical Approach to Constructing Priors. *Statistical Science*, 32(1), 1-28.
+3. Simpson, D., Rue, H., Riebler, A., Martins, T.G., & Sorbye, S.H. (2017).
+   Penalising Model Component Complexity: A Principled, Practical Approach
+   to Constructing Priors. Statistical Science, 32(1), 1-28.
+   https://doi.org/10.1214/16-STS576
 
-4. WorldPop (2020). Global High Resolution Population Denominators Project. DOI: 10.5258/SOTON/WP00674. Available at: https://www.worldpop.org
+4. WorldPop (2020). Global High Resolution Population Denominators Project.
+   University of Southampton.
+   https://doi.org/10.5258/SOTON/WP00674
 
-5. Rue, H., Martino, S., & Chopin, N. (2009). Approximate Bayesian inference for latent Gaussian models by using integrated nested Laplace approximations. *Journal of the Royal Statistical Society B*, 71(2), 319-392.
+5. Rue, H., Martino, S., & Chopin, N. (2009).
+   Approximate Bayesian inference for latent Gaussian models by using
+   integrated nested Laplace approximations. Journal of the Royal Statistical
+   Society: Series B (Statistical Methodology), 71(2), 319-392.
+   https://doi.org/10.1111/j.1467-9868.2008.00700.x
 
-6. ESA (2021). Sentinel-2 L2A Surface Reflectance. Copernicus Open Access Hub. https://scihub.copernicus.eu
-
-7. NASA Black Marble (2020). VNP46A4 Annual Nighttime Lights Composite. DOI: 10.5067/VIIRS/VNP46A4.001
+6. European Space Agency (2021). Sentinel-2 L2A Surface Reflectance Product.
+   Copernicus Open Access Hub.
+   https://scihub.copernicus.eu
 
 ---
 
