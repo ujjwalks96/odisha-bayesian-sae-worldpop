@@ -80,6 +80,7 @@ worldpop-odisha-sae/
 +-- report.Rmd                  Full reproducible R Markdown report
 +-- report.html                 Rendered interactive HTML report
 +-- run_all.R                   Master pipeline (runs all 5 steps)
++-- worldpop_odisha_sae_report.html     Web interactive Report (HTML)
 +-- README.md
 ```
 
