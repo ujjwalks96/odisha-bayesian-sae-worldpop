@@ -7,6 +7,33 @@
 
 ---
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://ujjwalks96.github.io/odisha-bayesian-sae-worldpop/worldpop_odisha_sae_report.html)
+[![Language](https://img.shields.io/badge/R-4.0%2B-276DC3?logo=r)](https://www.r-project.org/)
+[![Model](https://img.shields.io/badge/Model-INLA%20BYM2-blueviolet)](https://www.r-inla.org/)
+[![Data](https://img.shields.io/badge/Data-WorldPop%20%7C%20Sentinel--2-orange)](https://www.worldpop.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Complete-success)](https://github.com/ujjwalks96/odisha-bayesian-sae-worldpop)
+
+---
+
+## Table of Contents
+
+1. [Interactive Report](#interactive-report)
+2. [Rationale](#rationale)
+3. [Aim](#aim)
+4. [Objectives](#objectives)
+5. [Project Structure](#project-structure)
+6. [Data Sources](#data-sources)
+7. [Statistical Model](#statistical-model)
+8. [Key Findings](#key-findings)
+9. [Conclusion](#conclusion)
+10. [How to Run](#how-to-run)
+11. [Key Outputs](#key-outputs)
+12. [References](#references)
+13. [Declaration](#declaration)
+14. [License](#license)
+
+---
 ## Interactive Report
 
 **[View the full interactive Rendered Web Report](https://ujjwalks96.github.io/odisha-bayesian-sae-worldpop/worldpop_odisha_sae_report.html)** --> open directly in any browser. All maps, figures, tables and model diagnostics are fully embedded. No R installation required.
