@@ -390,7 +390,11 @@ Total runtime after initial download cache: approximately 1 minute.
    https://scihub.copernicus.eu
 
 ---
+## Declaration
 
+The analyses, interpretations, and conclusions presented in this repository are solely my own and do not reflect the views, positions, or policies of any organization or institution with which I am affiliated. This work has been conducted independently as part of my academic and research interests. Any errors, omissions, or limitations in the analysis remain entirely my responsibility.
+
+---
 ## License
 
 Code: MIT License
