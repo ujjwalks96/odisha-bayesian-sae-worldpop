@@ -1,4 +1,4 @@
-# District-Level Population Estimation for the Districts of Odisha, India using Bayesian Small Area (SAE) Estimation Methods
+# District-Level Population Estimation for the state of Odisha, India using Bayesian Small Area (SAE) Estimation Methods
 
 > **WorldPop REST API; Sentinel-2 Covariates; VIIRS Nighttime Lights; INLA BYM2 Spatial Model**
 
