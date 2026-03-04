@@ -1,6 +1,6 @@
-# Bayesian Small Area Population Estimation for Odisha
+# District-Level Population Estimation for the Districts of Odisha, India using Bayesian Small Area Estimation Methods
 
-> **WorldPop REST API · Sentinel-2 Covariates · VIIRS Nighttime Lights · INLA BYM2 Spatial Model**
+> **WorldPop REST API; Sentinel-2 Covariates; VIIRS Nighttime Lights; INLA BYM2 Spatial Model**
 
 **Author:** Ujjwal Kumar Swain | Geospatial AI Data and Policy Analyst, UNFPA India Odisha State Office
 **M.Sc.** Geoinformation Science and Earth Observation, University of Twente / IIRS-ISRO
