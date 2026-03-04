@@ -4,8 +4,6 @@ outputs/maps/*.pdf
 **/*.RData
 *.rda
 
-# HTML report (heavy, regenerate from .Rmd)
-*.html
 
 # Geospatial extras
 *.shp
